@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      "If there's no meaning in it,' said the King, 'that saves a world of trouble, you know, as we needn't try to find any",
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'For 'tis a question left vs yet to proue, Whether Loue lead Fortune, or else Fortune Loue',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'On my experience, Adam, freely taste,  And fear of death deliver to the winds'      
 };
 
 function status(statusText) {
